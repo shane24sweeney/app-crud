@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ecommerce</groupId>
-    <artifactId>sb-ecom</artifactId>
+    <artifactId>app-crud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sb-ecom</name>
-    <description>Spring Boot Ecommerce Project</description>
+    <name>app-crud</name>
+    <description>Spring Boot customer CRUD REST API</description>
     <properties>
         <java.version>17</java.version>
     </properties>
